@@ -4,9 +4,11 @@
 [![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/emak-gg)
 
 # About me
-[![](https://raw.githubusercontent.com/emak-gg/emak-gg/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/javascriptjp/javascriptjp/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/javascriptjp/javascriptjp/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/javascriptjp/javascriptjp/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/javascriptjp/javascriptjp/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+！[]（https://raw.githubusercontent.com/emak-gg/emak-gg/master/profile-summary-card-output/solarized/0-profile-details.svg）
+！[]（https://raw.githubusercontent.com/emak-gg/emak-gg/master/profile-summary-card-output/solarized/1-repos-per-language.svg）
+！[]（https://raw.githubusercontent.com/emak-gg/emak-gg/master/profile-summary-card-output/solarized/2-most-commit-language.svg）
+！[]（https://raw.githubusercontent.com/emak-gg/emak-gg/master/profile-summary-card-output/solarized/3-stats.svg）
+！[]（https://raw.githubusercontent.com/emak-gg/emak-gg/master/profile-summary-card-output/solarized/4-productive-time.svg）
 
 
 # Others
