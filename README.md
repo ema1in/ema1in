@@ -30,3 +30,6 @@
 ![](https://img.shields.io/badge/Discord%20(emak%238021)-5865F2?labelColor=black&logo=Discord) 
 
 ### Links
+<script>
+<iframe src="https://discord.com/widget?id=932529116400459786&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</script>
