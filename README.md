@@ -11,7 +11,7 @@
 ### Languages 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?labelColor=black&logo=JavaScript)
 ![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
-![](https://img.shields.io/badge/Java-b32453?labelColor=black&logo=Java)
+![](https://img.shields.io/badge/TypeScript-198ae0?labelColor=black&logo=TypeScript)
 ![](https://img.shields.io/badge/PHP-805c91?labelColor=black&logo=PHP)
 ![](https://img.shields.io/badge/HTML5-E34F26?labelColor=black&logo=HTML5)
 ![](https://img.shields.io/badge/CSS3-1572B6?labelColor=black&logo=CSS3)
