@@ -33,6 +33,5 @@
 
 
 <p align="dis">
-<a href="https://discord.gg/uxENZNrk5n"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="50px;" /></a>
-<p>Discord Server</p>
+<a href="https://discord.gg/uxENZNrk5n"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="50px;" /><p>Discord Server</p></a>
 </p>
