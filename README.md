@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/PHP-805c91?labelColor=black&logo=PHP)
 ![](https://img.shields.io/badge/HTML5-E34F26?labelColor=black&logo=HTML5)
 ![](https://img.shields.io/badge/CSS3-1572B6?labelColor=black&logo=CSS3)
+etc...
 
 ### Editors
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?labelColor=black&logo=Visual%20Studio%20Code) 
