@@ -36,12 +36,12 @@ etc...
 
 ## PCspec
 
-```csharp
+```js
 Main
 -----------------------------------
 CPU: core i 9 12900K
 GPU: RX6950XT , RTX 3080Ti , RTX3060
-ARM: 16GB×4 5600MHz　
+RAM: 16GB×4 5600MHz　
  OS: windows 11 home
 SSD: 4TB(M.2) , 2TB(M.2) , 2TB(M.2)
 ```
