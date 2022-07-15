@@ -37,7 +37,7 @@
     <tb><b>Discord Server</b></tb>
   </tr>
   <tr>
-    <td><a href="https://discord.gg/uxENZNrk5n"><img src="https://pbs.twimg.com/profile_images/1517927639738056704/q8NL-tpM_400x400.jpg" width="30px;" /></a></td>
+    <td><a href="https://discord.gg/uxENZNrk5n"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="30px;" /></a></td>
     <td><a href= "https://discord.gg/uxENZNrk5n" >💻【パソコミ】💻パソコンコミュニティ</a></td>
    </tr>
 </table>
@@ -47,7 +47,7 @@
     <tb><b>Twitter</b></tb>
   </tr>
   <tr>
-    <td><a href="https://twitter.com/emak8021"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="30px;" /></a></td>
+    <td><a href="https://twitter.com/emak8021"><img src="https://pbs.twimg.com/profile_images/1517927639738056704/q8NL-tpM_400x400.jpg" width="30px;" /></a></td>
     <td><a href= "https://twitter.com/emak8021" >(๑˃̵ᴗ˂̵) emak</a></td>
    </tr>
 </table>
