@@ -41,4 +41,13 @@
     <td><a href= "https://discord.gg/uxENZNrk5n" >💻【パソコミ】💻パソコンコミュニティ</a></td>
    </tr>
 </table>
-</p>
+
+<table>
+   <tr>
+    <tb><b>Twitter</b></tb>
+  </tr>
+  <tr>
+    <td><a href="https://twitter.com/emak8021"><img src="https://cdn.discordapp.com/attachments/919181343269724170/997531499790356620/icon.png" width="30px;" /></a></td>
+    <td><a href= "https://twitter.com/emak8021" >(๑˃̵ᴗ˂̵) emak</a></td>
+   </tr>
+</table>
