@@ -4,10 +4,9 @@
 [![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/emak-gg)
 
 # About me
-<p align="left"> 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emak-gg&layout=compact&show_icons=true&theme=dark)
- ![](https://github-readme-stats.vercel.app/api?username=emak-gg&theme=dark&show_icons=ture)
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emak-gg&layout=compact&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=emak-gg&theme=dark&show_icons=ture)
+
 
 
 # Others
