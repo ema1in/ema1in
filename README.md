@@ -18,6 +18,7 @@
 
 ### OS
 ![](https://img.shields.io/badge/Linux-ffea00?labelColor=black&logo=linux)
+![](https://img.shields.io/badge/Ubuntu-eb6134?labelColor=black&logo=Ubuntu)
 ![](https://img.shields.io/badge/Windows-0078D6?labelColor=black&logo=Windows) 
 ![](https://img.shields.io/badge/iOS-ff87cf?labelColor=black&logo=Apple) 
 
