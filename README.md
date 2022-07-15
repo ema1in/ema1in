@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=emak-gg&color=red)
 <br>
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/mouse_484)
-[![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/mouse484)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/emak8021)
+[![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/emak-gg)
 
 # About me
 <p align="left"> 
