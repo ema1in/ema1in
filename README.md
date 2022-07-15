@@ -18,6 +18,7 @@
 
 ### Editors
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?labelColor=black&logo=Visual%20Studio%20Code) 
+![](https://img.shields.io/badge/Atom-94d190?labelColor=black&logo=Atom) 
 
 ### OS
 ![](https://img.shields.io/badge/Linux-ffea00?labelColor=black&logo=linux)
