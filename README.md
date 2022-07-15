@@ -24,4 +24,4 @@
 
 ### Social
 ![](https://img.shields.io/badge/Twitter%20(@emak_gg)-1DA1F2?labelColor=black&logo=Twitter) 
-![](https://img.shields.io/badge/Discord%20(emak#8021)-5865F2?labelColor=black&logo=Discord) 
+![](https://img.shields.io/badge/Discord%20(emak%8021)-5865F2?labelColor=black&logo=Discord) 
