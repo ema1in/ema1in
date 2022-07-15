@@ -12,3 +12,15 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?labelColor=black&logo=HTML5)
 ![](https://img.shields.io/badge/CSS3-1572B6?labelColor=black&logo=CSS3)
 ![](https://img.shields.io/badge/Java-?labelColor=black&logo=Java)
+
+### Editors
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?labelColor=black&logo=Visual%20Studio%20Code) 
+
+### OS
+![](https://img.shields.io/badge/Linux-ffea00?labelColor=black&logo=linux)
+![](https://img.shields.io/badge/Windows-0078D6?labelColor=black&logo=Windows) 
+![](https://img.shields.io/badge/iOS-ff87cf?labelColor=black&logo=ios) 
+
+### Social
+![](https://img.shields.io/badge/Twitter%20(@gendaineko2222)-1DA1F2?labelColor=black&logo=Twitter) 
+![](https://img.shields.io/badge/Discord%20(現代ねこ%238713)-5865F2?labelColor=black&logo=Discord) 
