@@ -36,7 +36,7 @@ etc...
 
 ## PCspec
 
-```hack
+```yaml
 Main
 -----------------------------------
 CPU: core i 9 12900K
@@ -44,6 +44,14 @@ GPU: RX6950XT , RTX3080Ti , RTX3060
 RAM: 16GB×4 5600MHz　
  OS: windows 11 home
 SSD: 4TB(M.2) , 2TB(M.2) , 2TB(M.2)
+
+Sub
+-----------------------------------
+CPU: AMD Ryzen 9 5900X
+GPU: RTX 3090Ti , RX6900XT
+RAM: 32GB×2 3200MHz　
+ OS: windows 11 home
+SSD: 4TB(M.2) , 500GB(Sata)
 ```
 
 ## Links
