@@ -47,7 +47,7 @@
     <tb><b>Twitter</b></tb>
   </tr>
   <tr>
-    <td><a href="https://twitter.com/emak8021"><img src="https://cdn.discordapp.com/attachments/919181343269724170/997531499790356620/icon.png" width="30px;" /></a></td>
+    <td><a href="https://twitter.com/emak8021"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="30px;" /></a></td>
     <td><a href= "https://twitter.com/emak8021" >(๑˃̵ᴗ˂̵) emak</a></td>
    </tr>
 </table>
