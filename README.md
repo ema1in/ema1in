@@ -19,7 +19,7 @@
 ### OS
 ![](https://img.shields.io/badge/Linux-ffea00?labelColor=black&logo=linux)
 ![](https://img.shields.io/badge/Windows-0078D6?labelColor=black&logo=Windows) 
-![](https://img.shields.io/badge/iOS-ff87cf?labelColor=black&logo=ios) 
+![](https://img.shields.io/badge/iOS-ff87cf?labelColor=black&logo=Apple) 
 
 ### Social
 ![](https://img.shields.io/badge/Twitter%20(@gendaineko2222)-1DA1F2?labelColor=black&logo=Twitter) 
