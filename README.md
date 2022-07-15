@@ -31,7 +31,7 @@
 
 ## Links
 
-
+<p align="down"> 
 <table>
    <tr>
     <tb><b>Discord</b></tb>
@@ -51,3 +51,4 @@
     <td><a href= "https://twitter.com/emak8021" >(๑˃̵ᴗ˂̵) emak</a></td>
    </tr>
 </table>
+</p>
