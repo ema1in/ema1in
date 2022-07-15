@@ -5,7 +5,7 @@
 </p>
 ## Others
 
-###Languages
+### Languages
 ![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js) 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?labelColor=black&logo=JavaScript)
 ![](https://img.shields.io/badge/HTML5-E34F26?labelColor=black&logo=HTML5)
