@@ -66,4 +66,4 @@ etc...
    </tr>
 </table>
 
-![Commit Snake Game](https://raw.githubusercontent.com/emak-gg/emak-gg/output/github-contribution-grid-snake.svg)
+
