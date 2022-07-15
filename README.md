@@ -34,11 +34,11 @@
 
 <table>
    <tr>
-    <tb>Discord</tb>
+    <tb><b>Discord Server</b></tb>
   </tr>
   <tr>
     <td><a href="https://discord.gg/uxENZNrk5n"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="30px;" /></a></td>
-    <td><a href= "https://discord.gg/uxENZNrk5n" >Discord Server</a></td>
+    <td><a href= "https://discord.gg/uxENZNrk5n" >💻【パソコミ】💻パソコンコミュニティ</a></td>
    </tr>
 </table>
 </p>
