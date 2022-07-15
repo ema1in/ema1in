@@ -34,7 +34,7 @@ etc...
 ![](https://img.shields.io/badge/Twitter%20(@emak8021)-1DA1F2?labelColor=black&logo=Twitter) 
 ![](https://img.shields.io/badge/Discord%20(emak%238021)-5865F2?labelColor=black&logo=Discord) 
 
-## PCspec
+## PC specs
 
 ```yaml
 Main
