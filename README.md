@@ -31,7 +31,6 @@
 
 ## Links
 
-<p align="down"> 
 <table>
    <tr>
     <tb><b>Discord</b></tb>
@@ -51,4 +50,13 @@
     <td><a href= "https://twitter.com/emak8021" >(๑˃̵ᴗ˂̵) emak</a></td>
    </tr>
 </table>
-</p>
+
+<table>
+   <tr>
+    <tb><b>Steam</b></tb>
+  </tr>
+  <tr>
+    <td><a href="https://steamcommunity.com/profiles/76561199236918150"><img src="https://avatars.akamai.steamstatic.com/7dbc3dfa15ff5a5df5c3c9b859db27bc45934716_full.jpg" width="30px;" /></a></td>
+    <td><a href= "https://steamcommunity.com/profiles/76561199236918150" >沼爺</a></td>
+   </tr>
+</table>
