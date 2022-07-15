@@ -30,4 +30,8 @@
 ![](https://img.shields.io/badge/Discord%20(emak%238021)-5865F2?labelColor=black&logo=Discord) 
 
 ### Links
-- [_Discord Server_](https://discord.gg/uxENZNrk5n)
+
+<h2 align="dis">Discord Server</h2>
+<p align="dis">
+<a href="https://discord.gg/uxENZNrk5n"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="80px;" /></a>
+</p>
