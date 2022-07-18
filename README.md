@@ -36,7 +36,9 @@ etc...
 [![](https://img.shields.io/badge/Twitter%20(@emak8021)-1DA1F2?labelColor=black&logo=Twitter)](https://twitter.com/emak8021)
 [![](https://img.shields.io/badge/Discord%20(emak%238021)-5865F2?labelColor=black&logo=Discord)](https://discord.com/users/690128204916195329) 
 
-## PC specs
+## Specs
+
+### PC
 
 ```yaml
 Main
@@ -54,6 +56,15 @@ GPU: RTX 3090Ti , RX6900XT
 RAM: 32GB×2 3200MHz　
  OS: windows 11 home
 SSD: 4TB(M.2) , 500GB(Sata)
+```
+
+### Server
+
+```yaml
+  CPU: Intel® Xeon® Platinum 8354H プロセッサー
+Drive： 1TB SSD(NVMe), 4TB SSD(SATA), 4TB HDD(3.5inch), 2TB HDD(2.5inch)
+  RAM： 128GB (DDR4 RDIMM-3200 32GB x 4)
+   OS: Ubuntu Server
 ```
 
 ## Links
