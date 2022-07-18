@@ -67,7 +67,7 @@ Drive: 1TB SSD(NVMe), 4TB SSD(SATA), 4TB HDD(3.5inch), 2TB HDD(2.5inch)
    OS: Ubuntu Server
 ```
 
-## Links
+# Links
 
 <table>
    <tr>
