@@ -36,7 +36,7 @@ etc...
 [![](https://img.shields.io/badge/Twitter%20(@emak8021)-1DA1F2?labelColor=black&logo=Twitter)](https://twitter.com/emak8021)
 [![](https://img.shields.io/badge/Discord%20(emak%238021)-5865F2?labelColor=black&logo=Discord)](https://discord.com/users/690128204916195329) 
 
-## Specs
+# Specs
 
 ### PC
 
