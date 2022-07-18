@@ -62,8 +62,8 @@ SSD: 4TB(M.2) , 500GB(Sata)
 
 ```yaml
   CPU: Intel® Xeon® Platinum 8354H プロセッサー
-Drive： 1TB SSD(NVMe), 4TB SSD(SATA), 4TB HDD(3.5inch), 2TB HDD(2.5inch)
-  RAM： 128GB (DDR4 RDIMM-3200 32GB x 4)
+Drive: 1TB SSD(NVMe), 4TB SSD(SATA), 4TB HDD(3.5inch), 2TB HDD(2.5inch)
+  RAM: 128GB (DDR4 RDIMM-3200 32GB x 4)
    OS: Ubuntu Server
 ```
 
