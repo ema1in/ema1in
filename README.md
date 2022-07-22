@@ -74,7 +74,7 @@ Drive: 1TB SSD(NVMe), 4TB SSD(SATA), 4TB HDD(3.5inch), 2TB HDD(2.5inch)
     <tb><b>Discord</b></tb>
   </tr>
   <tr>
-    <td><a href="https://discord.gg/uxENZNrk5n"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="10px;" /></a></td>
+    <td><a href="https://discord.gg/uxENZNrk5n"><img src="https://cdn.discordapp.com/icons/932529116400459786/a_0d75e8700197d92e8a8f933560c6a379.gif" width="30px;" /></a></td>
     <td><a href= "https://discord.gg/uxENZNrk5n" >💻【パソコミ】💻パソコンコミュニティ</a></td>
    </tr>
 </table>
