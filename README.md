@@ -71,6 +71,6 @@ Drive: 1TB SSD(NVMe), 4TB SSD(SATA), 4TB HDD(3.5inch), 2TB HDD(2.5inch)
 
   <p>Discord：<a href= "https://discord.gg/uxENZNrk5n" >💻【パソコミ】💻パソコンコミュニティ</a></p>
    
-  <p>Steam<a href= "https://steamcommunity.com/profiles/76561199236918150" >沼爺</a></p>
+  <p>  Steam：<a href= "https://steamcommunity.com/profiles/76561199236918150" >沼爺</a></p>
 
 
