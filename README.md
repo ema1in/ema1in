@@ -34,7 +34,7 @@ etc...
 
 ### Social
 [![](https://img.shields.io/badge/Twitter%20(@emak8021)-1DA1F2?labelColor=black&logo=Twitter)](https://twitter.com/emak8021)
-[![](https://img.shields.io/badge/Discord%20(emak%238021)-5865F2?labelColor=black&logo=Discord)](https://discord.com/users/690128204916195329) 
+[![](https://img.shields.io/badge/Discord%20(emak%231000)-5865F2?labelColor=black&logo=Discord)](https://discord.com/users/690128204916195329) 
 
 # Specs
 
@@ -44,7 +44,7 @@ etc...
 Main
 -----------------------------------
 CPU: core i 9 12900K
-GPU: RX6950XT , RTX3080Ti , RTX3060
+GPU: RTX4090 , RTX4070
 RAM: 16GB×4 5600MHz　
  OS: windows 11 home
 SSD: 4TB(NVMe) , 2TB(NVMe) , 2TB(NVMe)
