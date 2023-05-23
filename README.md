@@ -37,7 +37,7 @@ etc...
 ```yaml
 Main
 -----------------------------------
-CPU: core i 9 12900K
+CPU: core i9 12900KF
 GPU: RTX4090 , RTX4070
 RAM: 16GB×4 5600MHz　
  OS: windows 11 home
