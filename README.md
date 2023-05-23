@@ -13,8 +13,7 @@
 # Others
 
 ### Languages 
-Java, Kotlin, groovy, JavaScript, TypeScript, HTML, CSS, Sass, php
-etc...
+Java, Kotlin, groovy, JavaScript, TypeScript, HTML, CSS, Sass, php,　　etc...
 
 ### Editors
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?labelColor=black&logo=Visual%20Studio%20Code) 
