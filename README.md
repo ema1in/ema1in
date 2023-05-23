@@ -40,7 +40,7 @@ Main
 CPU: core i9 12900KF
 GPU: RTX4090 , RTX4070
 RAM: 16GB×4 5600MHz　
- OS: windows 11 home
+ OS: windows 11 Pro
 SSD: 4TB(NVMe) , 2TB(NVMe) , 2TB(NVMe)
 
 Sub
