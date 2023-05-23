@@ -5,7 +5,7 @@
 
 # About me
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emak-gg&layout=compact&show_icons=true&theme=dark" />
+  <img alt="Top Langs" height="150px" src="https://cdn.discordapp.com/attachments/1104245416431714334/1110603900626685992/0f8738dceba72fd9.gif" />
 </p>
 
 
