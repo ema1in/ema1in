@@ -37,7 +37,7 @@ Java, Kotlin, groovy, JavaScript, TypeScript, HTML, CSS, Sass, php,　　etc...
 Main
 -----------------------------------
 CPU: core i9 12900KF
-GPU: RTX4090 , RTX4070
+GPU: RTX4090 , RTX4080
 RAM: 16GB×4 5600MHz　
  OS: windows 11 Pro
 SSD: 4TB(NVMe) , 2TB(NVMe) , 2TB(NVMe)
