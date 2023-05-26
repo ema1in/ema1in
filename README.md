@@ -45,7 +45,7 @@ SSD: 4TB(NVMe) , 2TB(NVMe) , 2TB(NVMe)
 Sub
 -----------------------------------
 CPU: AMD Ryzen 9 7900X
-GPU: RTX 3090Ti , RX7900XT
+GPU: RX7900XT , RTX 3090Ti
 RAM: 32GB×2 5200MHz　
  OS: windows 11 home
 SSD: 4TB(NVMe) , 500GB(Sata)
