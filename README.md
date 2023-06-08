@@ -36,7 +36,7 @@ Java, Kotlin, groovy, JavaScript, TypeScript, HTML, CSS, Sass, php,　　etc...
 ```yaml
 Main
 -----------------------------------
-CPU: core i9 12900KF
+CPU: core i9 13900KF
 GPU: RTX4090 , RTX4080
 RAM: 16GB×4 5600MHz　
  OS: windows 11 Pro
