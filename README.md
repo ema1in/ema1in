@@ -26,7 +26,7 @@ Java, Kotlin, groovy, JavaScript, TypeScript, HTML, CSS, Sass, php,　　etc...
 ![](https://img.shields.io/badge/iOS-ff87cf?labelColor=black&logo=Apple) 
 
 ### Social
-[![](https://img.shields.io/badge/Twitter%20(@emak8021)-1DA1F2?labelColor=black&logo=Twitter)](https://twitter.com/emak8021)
+[![](https://img.shields.io/badge/Twitter%20(@ema1in)-1DA1F2?labelColor=black&logo=Twitter)](https://twitter.com/ema1in)
 [![](https://img.shields.io/badge/Discord%20(えま\k%231000)-5865F2?labelColor=black&logo=Discord)](https://discord.com/users/864735082732322867) 
 
 # Specs
