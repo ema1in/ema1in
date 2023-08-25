@@ -4,11 +4,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/ema1in)
 
 # About me
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://cdn.discordapp.com/attachments/1099160036678320218/1144558159449571448/30748FE1-8A94-4E80-AB89-89E46F47CBE22023-07-06_20-53-03_045.jpg" />
-</p>
-
-
+沼人間
 
 # Others
 
